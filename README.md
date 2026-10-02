@@ -1,6 +1,6 @@
 # metabase-technos-prod
 
-Repositório de **produção** do Metabase da empresa. O código-fonte, a toolbox e o ambiente DEV ficam em [metabase-technos](https://github.com/LucasCardosoSI/metabase-technos).
+Repositório de **produção** do Metabase da empresa. O código-fonte, a toolbox e o ambiente DEV ficam em [metabase-technos-dev](https://github.com/LucasCardosoSI/metabase-technos-dev).
 
 Este projeto só sobe e opera a instância. Não contém o código do Metabase. A imagem em uso no ensaio é `metabase/metabase:v0.63.5-local`. Uma imagem construída no repositório de desenvolvimento entra aqui pelo `scripts/upgrade-prod.sh`.
 
