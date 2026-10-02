@@ -1,0 +1,12 @@
+.env
+.env.previous
+secrets/*
+!secrets/.gitkeep
+upgrade-history.log
+/backups/
+*.mv.db
+*.dump
+*.pem
+*.key
+*.p12
+*.pfx
